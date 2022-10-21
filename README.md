@@ -1,4 +1,4 @@
-CALCULADORA-REACT
+#Calculadora - React
 <hr>
 
 ### Como rodar o projeto:
@@ -9,6 +9,6 @@ CALCULADORA-REACT
 2. `npm install` para instalar as dependências do projeto
 3. `npm run dev`
 
-[](../../../../Videos/Captures/Vite%20+%20React%20-%20Google%20Chrome%202022-10-21%2018-51-20.mp4)
-
 <hr>
+
+[](../../../../Videos/Captures/Vite%20+%20React%20-%20Google%20Chrome%202022-10-21%2018-51-20.mp4)

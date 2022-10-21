@@ -11,4 +11,7 @@
 
 <hr>
 
-[](../../../../Videos/Captures/Vite%20+%20React%20-%20Google%20Chrome%202022-10-21%2018-51-20.mp4)
+
+
+https://user-images.githubusercontent.com/103607281/197295192-71bc53de-d0e8-4e86-a791-73d89864fb5d.mp4
+

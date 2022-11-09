@@ -1,4 +1,4 @@
-#Calculadora - React
+# Calculadora - React
 <hr>
 
 ### Como rodar o projeto:
